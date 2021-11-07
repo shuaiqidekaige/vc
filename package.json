@@ -1,0 +1,13 @@
+{
+  "name": "vc-cli",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "description": "vc-cli",
+  "scripts": {},
+  "keywords": ["vue", "components"],
+  "author": "",
+  "license": "MIT"
+}

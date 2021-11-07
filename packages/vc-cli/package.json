@@ -1,0 +1,20 @@
+{
+  "name": "vc-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "lep-components-scripts": "build/index.js"
+  },
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "keywords": [
+    "vue",
+    "component"
+  ],
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
