@@ -1,0 +1,14 @@
+{
+  "name": "create-vc-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "keywords": [
+    "vue",
+    "component"
+  ]
+}
